@@ -1,0 +1,10 @@
+{
+  "name": "freeagent-node",
+  "version": "0.0.1",
+  "main": "lib/freeagent.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": { 
+  }
+}
