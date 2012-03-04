@@ -4,8 +4,6 @@ A node wrapper for the Freeagent API.
 
 ## Usage
 
-     npm install freeagent-node
-
      $ node
      > FreeagentAPI = require('freeagent-node')
      > freeagentAPI = new FreeagentAPI('subdomain', 'username', 'password')
