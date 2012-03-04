@@ -8,11 +8,11 @@ A node wrapper for the Freeagent API.
      > FreeagentAPI = require('freeagent-node')
      > freeagentAPI = new FreeagentAPI('subdomain', 'username', 'password')
 
-## Projects
+### Projects
 
      > freeagentAPI.listProjects(function(response) { console.log(response); })
 
-## Timeslips
+### Timeslips
 
      > freeagentAPI.listTimeslips('2011-01-01', '2012-01-01', function(response) { console.log(response); })
 
